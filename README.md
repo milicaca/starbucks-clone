@@ -2,4 +2,5 @@
 Preview of website
 
 Responsive design
-[Starbucks.pdf](https://github.com/milicaca/starbucks-clone/files/8171254/Starbucks.pdf)
+
+![Screenshot (8)](https://user-images.githubusercontent.com/57440547/156405919-d1dce9ba-fedd-47cc-bf05-a911ce9c2712.png)
